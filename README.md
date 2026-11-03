@@ -1,1 +1,1 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mvhove&layout=pie&langs_count=20&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=mvhove&layout=pie&langs_count=20&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mvhove&layout=donut&langs_count=20&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=mvhove&layout=donut&langs_count=20&theme=radical)
